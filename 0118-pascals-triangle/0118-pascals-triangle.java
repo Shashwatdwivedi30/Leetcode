@@ -4,10 +4,6 @@ import java.util.List;
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<>();
-        if (numRows == 0) {
-            return result;
-        }
-
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
         result.add(firstRow);
