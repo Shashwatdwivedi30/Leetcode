@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0913-random-flip-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0913-random-flip-matrix) |
 ## Reservoir Sampling
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
