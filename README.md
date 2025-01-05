@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
