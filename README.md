@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
