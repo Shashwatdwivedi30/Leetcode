@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0913-random-flip-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0913-random-flip-matrix) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Reservoir Sampling
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
