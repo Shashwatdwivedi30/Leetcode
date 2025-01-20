@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0913-random-flip-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0913-random-flip-matrix) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
 |  |
 | ------- |
