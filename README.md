@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
