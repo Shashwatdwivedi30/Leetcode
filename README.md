@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
+| [1287-distance-between-bus-stops](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Design
