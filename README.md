@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1287-distance-between-bus-stops](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0605-can-place-flowers) |
 ## Bit Manipulation
 |  |
 | ------- |
