@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3429-special-array-i) |
 ## Design
 |  |
