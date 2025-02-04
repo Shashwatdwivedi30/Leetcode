@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
