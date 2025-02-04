@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1287-distance-between-bus-stops](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
