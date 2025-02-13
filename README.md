@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
