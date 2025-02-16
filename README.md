@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0169-majority-element) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
