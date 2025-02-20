@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0506-relative-ranks) |
 ## Linked List
 |  |
 | ------- |
