@@ -4,11 +4,11 @@ class Solution {
         for(int i = 0; i < nums.length; i++){
             if(nums[i] == 1){
                 count++;
-            }
-            if(max < count){
+                if(max < count){
                 max = count;
+                }
             }
-            if(nums[i] == 0)
+            else
                 count = 0;
         }
         return max;
