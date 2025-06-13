@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
