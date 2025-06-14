@@ -1,29 +1,22 @@
+//L[i][j ] is a subset in between s1 of i and s2 of j
 class Solution {
-    static int m,n;
-    public static int solve(String s1, String s2, int i, int j, int[][] memo){
-        if(i >= m || j >= n){
-            return 0;
-        }
-        if(memo[i][j] != -1) return memo[i][j];
-        if(s1.charAt(i) == s2.charAt(j)){
-            memo[i][j] = 1+solve(s1, s2, i+1, j+1, memo);
-            return memo[i][j];
-        }
-        else{
-            memo[i][j] = Math.max(solve(s1,s2,i+1,j, memo), solve(s1,s2,i,j+1, memo));
-            return memo[i][j];
-        }
-
-    }
-    public int longestCommonSubsequence(String text1, String text2) {
-        m = text1.length();
-        n = text2.length();
-        int[][] memo = new int[1001][1001];
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                memo[i][j] = -1;
+    private static int lcs(String s1, String s2){
+        int m = s1.length();
+        int n = s2.length();
+        int[][] dp = new int[m+1][n+1];
+        for(int i = 1; i < dp.length; i++){
+            for(int j = 1; j < dp[0].length; j++){
+                if(s1.charAt(i-1) == s2.charAt(j-1)){
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                }
+                else{
+                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
+                }
             }
         }
-        return solve(text1, text2, 0, 0, memo);
+        return dp[m][n];
+    }
+    public int longestCommonSubsequence(String text1, String text2) {
+        return lcs(text1, text2);
     }
 }
