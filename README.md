@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
