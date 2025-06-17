@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0605-can-place-flowers) |
