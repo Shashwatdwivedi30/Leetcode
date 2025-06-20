@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0389-find-the-difference) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
