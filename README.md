@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0070-climbing-stairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0090-subsets-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
