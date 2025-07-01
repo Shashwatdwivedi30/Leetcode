@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1013-fibonacci-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Search
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0389-find-the-difference) |
