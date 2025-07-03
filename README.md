@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0090-subsets-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0242-valid-anagram) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0101-symmetric-tree) |
