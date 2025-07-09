@@ -5,16 +5,15 @@ class Solution {
         return ans;
     }
 
-    public static void GenParenthesis(int n, int open, int close, String ans, List<String> ll){
-        if(open == n && close == n){
+    public static void GenParenthesis(int n, int i, int j, String ans, List<String> ll){
+        if(i == n && j == n){
             ll.add(ans);
-            return;
         }
-        if(open < n){ 
-            GenParenthesis(n, open+1,close, ans+"(", ll);
+        if(i < n){
+            GenParenthesis(n, i+1, j, ans+"(", ll);
         }
-        if(close < open){ 
-            GenParenthesis(n, open,close+1, ans+")", ll);
+        if(j < i){
+            GenParenthesis(n, i, j+1, ans+")", ll);
         }
     }
 }
