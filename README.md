@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1105-uncrossed-lines](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1184-car-pooling](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1184-car-pooling) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1656-count-good-triplets) |
