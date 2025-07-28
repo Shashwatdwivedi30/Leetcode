@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1448-maximum-69-number) |
 | [2998-count-symmetric-integers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
