@@ -9,7 +9,6 @@ class Solution {
             sum += d;
             n /= 10;
         }
-        System.out.println(prod+sum);
-        return (t % (prod+sum) == 0);
+        return t % (prod+sum) == 0;
     }
 }
