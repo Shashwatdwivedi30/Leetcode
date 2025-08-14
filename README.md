@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0913-random-flip-matrix) |
 | [0952-word-subsets](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0952-word-subsets) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2486-most-frequent-even-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Reservoir Sampling
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2486-most-frequent-even-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3429-special-array-i) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2486-most-frequent-even-element](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shashwatdwivedi30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
